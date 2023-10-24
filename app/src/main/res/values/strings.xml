@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Phone verification by Phone Email</string>
+    <string name="phone_email">Phone Email</string>
+
+
+    <string name="welcome_to_app">Welcome to <b>Phone Email</b></string>
+    <string name="welcome_desc">There are many variations of \npassages of Lorem Ipsum available, but the</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="agree_text">You agree to receive automated SMS to confirm your phone number.</string>
+    <string name="get_otp">Get OTP</string>
+    <string name="help_email">Help@appInbox.com</string>
+    <string name="help_gmail">helpappinbox@gmail.com</string>
+    <string name="enter_otp">Enter <b>OTP</b></string>
+    <string name="otp_desc">There are many variations \npassages of Lorem Ipsum available</string>
+    <string name="submit">Submit</string>
+    <string name="resend_otp">Resend OTP ?</string>
+    <string name="description">Description</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!--Message-->
+    <string name="msg_enter_first_name">Enter first name</string>
+    <string name="msg_enter_last_name">Enter last name</string>
+    <string name="msg_enter_email">Enter email address</string>
+    <string name="msg_enter_phone_number">Enter phone_number</string>
+    <string name="msg_enter_valid_phone">Enter valid phone number</string>
+    <string name="msg_enter_valid_email">Enter valid email address</string>
+    <string name="msg_agree_recieve_sms">Please agree to receive SMS</string>
+    <string name="msg_enter_valid_otp">Enter Valid OTP</string>
+    <string name="no_email">No email</string>
+    <string name="default_country">+91</string>
+
+</resources>

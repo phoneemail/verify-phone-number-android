@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">@color/green_500</color>
+    <color name="colorPrimaryDark">@color/green_500</color>
+    <color name="colorAccent">@color/green_500</color>
+
+    <color name="green_700">#388E3C</color>
+    <color name="green_500">#4CAF50</color>
+    <color name="green_200">#a5d6a7</color>
+
+    <color name="teal_700">#00796B</color>
+    <color name="teal_200">#80CBC4</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#F2F2F2</color>
+    <color name="text_color">#3F3F3F</color>
+
+    <color name="error_color">#DF4336</color>
+    <color name="resend_color">#475CC0</color>
+    <color name="gray_border">#B5BBC9</color>
+    <color name="black_inactive_color">#292929</color>
+
+    <color name="color_icon">@color/color_light_icon</color>
+    <color name="color_light_icon">#49454F</color>
+</resources>
